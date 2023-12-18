@@ -1,0 +1,3 @@
+This is a repository which has every implementation on the the binary search.
+We are going to implement, use and modify the binary search algorithm with various examples
+to understand it in a better way.
